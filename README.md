@@ -8,8 +8,4 @@ We need to set the following environment variables:
 * `SESSION_SECRET`
 
 **Valid values for `hosting` are:**
-
-* GITHUB
-* GITLAB
-* FACEBOOK
-* GOOGLE
+[`GITHUB`](https://github.com) | [`GITLAB`](https://gitlab.com) | [`FACEBOOK`](https://facebook.com) | [`GOOGLE`](https://google.com)
